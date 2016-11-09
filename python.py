@@ -7,4 +7,3 @@ print u"哈哈"
 print u'你是谁'
 print u"在吗！"
 print u'你是谁.'
-print u"段嘉敏"
