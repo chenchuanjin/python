@@ -1,3 +1,2 @@
-# python
-试运行
-我想知道我的改变会在哪里出现!
+# learn python the hard way
+相关代码手打练习
